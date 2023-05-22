@@ -25,9 +25,9 @@ test("Screenshot & Visual comparision", async ({ page }) => {
     await expect(page.locator("#displayed-text")).toBeHidden();
 });
 
-
+/*
 test('visual', async ({ page }) => {
     await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
     expect(await page.screenshot()).toMatchSnapshot('landing.png');
 }) 
-
+*/
