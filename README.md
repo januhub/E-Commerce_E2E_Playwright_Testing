@@ -8,8 +8,6 @@
 4. Network security test: User can't access another user's orders using their order ID.
 5. Visual tests: Pop-up validation, Visual comparison.
 
-Tests are stored in a folder called test.
-
 ## Prerequisite
  Ensure `node` and `npm` is installed in the system
 
